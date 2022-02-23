@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reason in season: or, A vvord on the behalf of the non-collegiate physicians and of the right of the people in the choice of their physicians. By A. Hargrave, philomedicus.</title>
+            <author>Hargrave, A.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45580</idno>
+            <idno type="STC">Wing H768A</idno>
+            <idno type="STC">ESTC R220348</idno>
+            <idno type="EEBO-CITATION">99831752</idno>
+            <idno type="PROQUEST">99831752</idno>
+            <idno type="VID">36219</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45580)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36219)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2126:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reason in season: or, A vvord on the behalf of the non-collegiate physicians and of the right of the people in the choice of their physicians. By A. Hargrave, philomedicus.</title>
+                  <author>Hargrave, A.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Tightly bound; print faded.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Physicians --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36219:1" rendition="simple:additions"/>
+            <head>Reaſon in Seaſon: OR, A VVORD on the Behalf of the NON-COLLEGIATE PHYSICIANS And of the Right of the People IN THE Choice of their Phyſicians.</head>
+            <p>
+               <hi>By</hi> A. Hargrave, <hi>PHILO MEDIC<g ref="char:V">Ʋ</g>S.</hi>
+            </p>
+            <p>Magna eſt Veritas, et praevalebit.</p>
+            <p>Printed in the Year 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:36219:2"/>
+            <head>Reaſon in Seaſon, &amp;c.</head>
+            <p>FOraſmuch as there was never any <hi>Prohibition</hi> of the <hi>Practice</hi> of <hi>Phyſick</hi> or <hi>Chy<g ref="char:EOLhyphen"/>rurgery</hi> to thoſe that had Skill therein, until the time of King <hi>Henry</hi> the 8th, it is to be preſumed, that the Exerciſe of theſe <hi>Arts</hi> is <hi>Common Right.</hi> For our <hi>Kings</hi> and <hi>Governours</hi> had no ſuch Thoughts, as ſome now have, that the <hi>E<g ref="char:EOLhyphen"/>ducations</hi> of the <hi>Univerſities</hi> only capacitated <hi>Perſons</hi> for that <hi>Practice;</hi> becauſe, had they ſo judged, it cannot be imagined they would, for ſo many Hundreds of Years, in a <hi>Nation</hi> of ſuch pregnant <hi>Faculties,</hi> have forborn to ſpecifie their Re<g ref="char:EOLhyphen"/>ſentment thereof; eſpecially conſidering, that the <hi>Clergy</hi> (the Original and Support of <hi>Academick Learning,</hi> were the great <hi>Miniſters</hi> of <hi>State,</hi> for the moſt part under every <hi>King</hi> ſince the <hi>Conqueſt;</hi> and how eaſie it had been for them, had they (ſeeing they ruled All) apprehended it Eſſential to <hi>Healing,</hi> may be judg<g ref="char:EOLhyphen"/>ed by every Rational Man.</p>
+            <p>Nor doth it appear by that <hi>Act</hi> of the third of <hi>Henry</hi> the 8th, where the <hi>Bi<g ref="char:EOLhyphen"/>ſhops</hi> are the <hi>Licenſers</hi> of <hi>Phyſick,</hi> that there was ought of other <hi>Learning</hi> requir<g ref="char:EOLhyphen"/>ed, then <hi>Judgment</hi> in the <hi>Faculty;</hi> becauſe it was appointed by that <hi>Act,</hi> They ſhould call to their Aſſiſtance any Four <hi>Teachers</hi> thereof; and as if this alſo were thought too great an Infringment of <hi>Liberty,</hi> it was by another <hi>Act</hi> of <hi>Parliament</hi> in the 34th Year of the ſaid <hi>King's</hi> Reign (taking no notice, if there were any ſuch, of that in the 14th and 15th Year of the ſame King) ordered, That <hi>Any</hi> that had Skill in <hi>Herbs, Roots, Waters,</hi> or to cure any <hi>Outward Sores,</hi> the <hi>Stone, Stranguries, Agues</hi> and <hi>Impeſthumes;</hi> not withſtanding any thing ſpecified in the former <hi>Act,</hi> ſhould have Liberty ſo to do: and good Reaſon. For they found that <hi>Limitation</hi> of <hi>Practice</hi> to a ſet Number increaſed <hi>Pride</hi> and <hi>Covetouſneſs</hi> (grand Hindrances to the Improvement of <hi>Phyſick</hi>) and the <hi>Di<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reſſed</hi> wanted Help, and they that did them Good were Troubled for ſo doing, as the <hi>Preamble</hi> to that <hi>Act</hi> ſufficiently manifeſts.</p>
+            <p>Now, although ſome may Object, <hi>This later</hi> Act <hi>was only made againſt that</hi> Branch <hi>of the former which concerned</hi> Chyrurgeons; yet you may without Diffi<g ref="char:EOLhyphen"/>culty diſcern that <hi>Agues.</hi> the <hi>Stone</hi> and <hi>Stranguries</hi> (Diſtempers not cured by Out<g ref="char:EOLhyphen"/>ward <hi>Medicines</hi>) are referred to <hi>Any Perſons</hi> skilful therein. Yea, the very <hi>Letter</hi> of the <hi>Act,</hi> ſpecifying Knowledge in <hi>Herbs, Roots</hi> and <hi>Waters (Chymical Spirits</hi> and other <hi>Preparations</hi> of theirs being at that time unknown) doth undeniably de<g ref="char:EOLhyphen"/>monſtrate ſome <hi>part</hi> of <hi>Phyſicians Practice,</hi> if not the better <hi>part.</hi> For though <hi>Col<g ref="char:EOLhyphen"/>ledgiate Phyſicians</hi> (through Ignorance &amp; Idleneſs) refer the <hi>Stone</hi> to the <hi>Knife,</hi> and ſo make it a part of <hi>Chyrurgery;</hi> yet the <hi>Stone</hi> in the <hi>Kidneys</hi> (all men know) the <hi>Knife</hi> never reached; &amp; where one is troubled with the former, there are ſix, if not
+<pb n="2" facs="tcp:36219:3"/>ten with the latter<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and can any one think, that that <hi>Act</hi> ſhould only or ſimply respect <hi>Chyrurgery.</hi> For in <hi>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> though they are ſometimes cured by <hi>Topicks,</hi> moſt men now know, that <hi>internal Remedies</hi> are more efficacious. The <hi>Strangury</hi> out<g ref="char:EOLhyphen"/>ward <hi>Medicines</hi> could never cure; to teſtiſie which I call to witneſs the <hi>Calamities</hi> of the <hi>Sick,</hi> and the <hi>Error</hi> of <hi>Phyſicians</hi> (marked with a Bloody <hi>Character</hi>) who, by doting on the <hi>Stone</hi> &amp; outward <hi>Remedies,</hi> have neglected the <hi>One thing neceſſary,</hi> viz. <hi>the Aſſiſtance of the Phyſical Man,</hi> and by that means miſerably proſtrated their <hi>Pati<g ref="char:EOLhyphen"/>ents</hi> to <hi>Death</hi>
+            </p>
+            <p>Wherefore <hi>we</hi> may reaſonably conclude, that <hi>Parliament</hi> never intended to make the <hi>Power</hi> given to <hi>Phyſicians</hi> as a <hi>Bar</hi> to <hi>Natural Endowments,</hi> or the <hi>Improvements</hi> of others in any wiſe relating to the <hi>cure</hi> of the <hi>ſick.</hi> And although by Miſ-infor<g ref="char:EOLhyphen"/>mation they had enthroned <hi>Colledgiates</hi> as <hi>Judges,</hi> yet (upon ſenſe of their Inabili<g ref="char:EOLhyphen"/>ties) they were willing to curtayl their <hi>Power.</hi> A ſufficient Demonſtration, that the <hi>Limitation</hi> of <hi>Phyſick</hi> never aroſe Naturally as needful; but, by ſurpriſe of <hi>per<g ref="char:EOLhyphen"/>ſons</hi> in <hi>authority,</hi> with pretences of what was not. It is alſo to be conſidered that in none of the <hi>Acts,</hi> made during that <hi>King</hi>'s Reign, was any thing ſpecified to limit the <hi>Practice of Phyſick</hi> to thoſe only that were <hi>Academical;</hi> and although men now dote upon that kind of <hi>learning</hi> (which as we would not <hi>contemn,</hi> ſo we are unwil<g ref="char:EOLhyphen"/>ling too much to <hi>adore</hi>) yet 'tis to be preſumed, our <hi>Anceſtors</hi> left <hi>Nature</hi> free to bring forth her own Virtues, as all the fore-going <hi>Generations</hi> before that time had done; eſpecially when they ſaw the <hi>limitation</hi> to a <hi>particular,</hi> ſo far to endanger the <hi>who<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</hi> For if <hi>we</hi> contemplate the <hi>original</hi> of <hi>Phyſick,</hi> it oweth not its Birth to any <hi>Academy,</hi> it having had its <hi>being</hi> long before they were known in the <hi>world.</hi> Nor had it its Riſe in <hi>Societies,</hi> but in and from particular <hi>perſons,</hi> as (in the former Ages of the <hi>world</hi> from <hi>Hermes, Machaon, Eſculapius, Hippocrates, &amp;c.</hi> and (in the latter) from <hi>Baſil Valentine, Paracelſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, Alexander Suchte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Helmont, &amp;c. Hippocrates</hi> indeed, though a Man deſcended from the <hi>Race of Phyſicians,</hi> was reckoned the <hi>Founder</hi> thereof; and becauſe he cured the <hi>Plague.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dged to be endowed with a <hi>Divine Nature</hi> (as <hi>Petus, Phyſician</hi> to <hi>Arta<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>,</hi> teſtified to his <hi>Master</hi>) and to have done more in his ſingle Perſon, then all his <hi>Anceſtors had <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> and this ſame Man alſo, by his <hi>Volumns</hi> written, hath ſo far proved his <hi>Gifts,</hi> as to be eſteem'd the <hi>Patron</hi> of <hi>Phyſick,</hi> though we do not find him acquainted with ought but his <hi>Mother Tongue.</hi> And that it was ſo, is probable enough, ſeeing <hi>Collegiates</hi> and <hi>Academiſts</hi> confeſs, and the <hi>World</hi> knows, that <hi>Natural Gifts</hi> ariſe not from nor are tyed to lear<g ref="char:EOLhyphen"/>ning of <hi>Languages;</hi> for if they were, then every Man, who hath learned <hi>French, Dutch, Spaniſh;</hi> or any other <hi>Language</hi> beſideſ his own ſhould neceſſarily he endow<g ref="char:EOLhyphen"/>ed with more Excellent Gifts then <hi>others,</hi> the contrary of which is daily obvious. Nor can there be at this day ſuch Pretences for <hi>Academick Learning,</hi> as heretofore might have been, in order to the underſtanding of <hi>Phyſick;</hi> becauſe the Sum of all that hath been written by the <hi>Ancients,</hi> is now in the <hi>Engliſh Tongue,</hi> although at the time of <hi>that Act</hi> making it was lockt up in other <hi>Languages.</hi>
+            </p>
+            <p>Moreover, <hi>Chymiſtry</hi> (the great <hi>Ornament</hi> of <hi>Phyſicians</hi> and <hi>Benefit</hi> to the <hi>Sick</hi>)
+<pb n="3" facs="tcp:36219:3"/>
+was not ſo much as thought of to be eſſential to the <hi>Practice</hi> of <hi>Phyſick;</hi> but of la<g ref="char:EOLhyphen"/>ter times, <hi>experience</hi> teſtifies, little can be effected therein without it. And it is ap<g ref="char:EOLhyphen"/>parently evident, that <hi>Colledgiates</hi> have made very ſmall Progreſs therein; but <hi>thoſe</hi> that are not of them (and whom they at this day perſecute) have ſolely aimed at, and brought to Light, ſuch <hi>Remedies</hi> as do more eaſily, ſafely and ſpeedily effect the <hi>Cure</hi> of the <hi>Sick,</hi> then the <hi>Medicines</hi> of their <hi>Diſpenſatory</hi> can at this day, What! ſhall we then defend a <hi>ſhadow,</hi> that cannot benefit <hi>us,</hi> and deſtroy a <hi>ſubstance,</hi> that helpeth to preſerve <hi>us?</hi>
+            </p>
+            <p>The <hi>Colledge</hi> alledge their <hi>Education,</hi> as great Help to their <hi>Capacities;</hi> yet when we conſider of it, we ſhall not find it amounts to more then a Memorative Know<g ref="char:EOLhyphen"/>ledge of what they have read; and what this can advantage us, is eaſie to judge. For, ſince we live in a <hi>Climate</hi> and <hi>Time,</hi> where &amp; when no Diſeaſe is ſo apparent<g ref="char:EOLhyphen"/>ly ſingle, as to anſwer the Deſcription of the <hi>Ancients,</hi> how ſhall what they have ſaid advantage the <hi>ſick,</hi> when the preſent <hi>Diſtempers</hi> were not in former times known? That this is true, the <hi>Obſervation</hi> of many years hath proved: for <hi>Col<g ref="char:EOLhyphen"/>legiates</hi> themſelves are frequently crying out, <hi>This is a New Diſtemper.</hi> Therefore if we rightly conſider, the learning of <hi>Languages</hi> cannot better the <hi>Reaſon</hi> of any man, much leſs beget <hi>Underſtanding,</hi> except <hi>hiſtorical,</hi> which in <hi>Phyſick</hi> can be of no ſer<g ref="char:EOLhyphen"/>vice at all in this our <hi>Age:</hi> becauſe <hi>Diſeaſes</hi> are now changed and complicated, and few or none apparently ſingle (as we ſaid) and the <hi>Conſtitutions</hi> of <hi>Bodies</hi> ſo al<g ref="char:EOLhyphen"/>tered, as whatſoever might formerly be of uſe, and very beneficial, at this Day is ſo far from doing <hi>Good,</hi> as 'tis often found to prove inimical and injurious, for the <hi>Reaſons</hi> aforeſaid.</p>
+            <p>Indeed, it is clear to all <hi>Practitioners</hi> in <hi>Phyſisk,</hi> that are not <hi>Lip-learned</hi> only, that very few <hi>Sick Perſons</hi> have been ſo happy as to ſuffer the Affliction ſingly of any <hi>Nominal Diſeaſe,</hi> ever ſince the <hi>Pox</hi> and <hi>Scurvey</hi> have proved ſo Epidemical; and the laſt <hi>Plague</hi> augmented the latter, as becoming <hi>material</hi> therein, that <hi>that Diſ<g ref="char:EOLhyphen"/>eaſe</hi> ſeemeth as the <hi>Mother</hi> or <hi>Genetreſs</hi> of all <hi>Calamities</hi> now reigning; inſomuch that the <hi>Stone, Go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts Pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſies,</hi> and all the <hi>Troop of Diſeaſes</hi> (congealing, coagulating and obſtracting receive Life and Exiſtance therefrom; againſt which no known Ancient: <hi>Remedies</hi> prevail, or effect ought to purpoſe, Nor did any <hi>Methodiſt</hi> ever care by them in theſe latter Days, notwithſtanding the Advantage they have of <hi>Aſſociation,</hi> and ſtanding ſo fair in the <hi>Opinions</hi> of the <hi>People,</hi> that they have <hi>Pa<g ref="char:EOLhyphen"/>tients</hi> at their B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck ſo as at the very firſt beginning of <hi>Diſtempers</hi> 'ere thoſe <hi>Diſeaſes</hi> have materiated themſelves, they are the Subjects of their <hi>Skill:</hi> An Advantage that thoſe that are not of them ſeldom have: yet 'tis evident, that in <hi>Chronical Diſeaſes</hi> more are cur'd by <hi>Particular Perſons</hi> of no <hi>Society</hi> (when the <hi>Patients</hi> are by the other leſt off as Uncurable, &amp; the Diſeaſe for the moſt part changed in reſpect of its <hi>Seat;</hi> and the <hi>Spirit</hi> more darkned, through great De<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ility of the <hi>Faculties</hi>) then <hi>they</hi> themſelves, with all the Helps of <hi>Nature</hi>'s Clearneſs, Strength of <hi>Facul<g ref="char:EOLhyphen"/>ties</hi> and Unfixedneſs of the <hi>Diſeaſe</hi> it ſelf could alleviate or tolerably help.</p>
+            <p>Now, ſince few of the <hi>Practitioners in Phyſick</hi> (that are not <hi>Collegiates</hi> or <hi>Depen<g ref="char:EOLhyphen"/>ders</hi>
+               <pb n="4" facs="tcp:36219:4"/>
+on them) follow any other <hi>Method,</hi> then what they have raiſed from <hi>Experi<g ref="char:EOLhyphen"/>ence,</hi> or a well grounded <hi>Judgment</hi> in <hi>Nature,</hi> both as to the <hi>Progreſs</hi> of <hi>Diſtempers</hi> and the <hi>Cures</hi> thereof; is it not reaſonable to judge, they are as fit (if not more to practiſe <hi>Phyſick,</hi> then <hi>Thoſe</hi> that ſit down contented with <hi>Rules</hi> preſcribed by the <hi>Ancients,</hi> who knew nothing of the <hi>Diſtempers</hi> which now afflict, as is well and pithily noted by the <hi>Chymiſts</hi> of <hi>London</hi> in the firſt <hi>Part</hi> of their <hi>Principles</hi> ſtated &amp;c. For 'tis evident by the <hi>Hiſtories</hi> of former Times, <hi>Diſtempers</hi> were rarely compli<g ref="char:EOLhyphen"/>cated, and now <hi>we</hi> are ſenſible; that they are ſeldom <hi>Simple;</hi> and how the <hi>Reme<g ref="char:EOLhyphen"/>dies</hi> appointed by the <hi>Ancients</hi> in their <hi>Dayes</hi> ſhould ſerve ours, <hi>We</hi> leave to the Judgment of every Man.</p>
+            <p>Therefore it is worthy the Conſideration of <hi>Magiſtrates</hi> and <hi>Others,</hi> that not withſtanding there hath been, for many Years, this great <hi>Digreſſion</hi> in <hi>Nature</hi> from her wonted <hi>Path,</hi> and <hi>Epidemical Diſeaſes</hi> falling one upon the Neck of another have greatly augmented the ſame, yet hath it not been in the Hearts of theſe Men that are called a <hi>Colledge,</hi> either to take ſufficient Notice of the ſame, or to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> after <hi>Remedies</hi> for Prevention of the Increaſe thereof; whereas it is the Part of a good <hi>Phyſician,</hi> not only to change and alter his <hi>Medicines,</hi> but his <hi>Method</hi> of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> alſo (if <hi>Need</hi> be) as <hi>Diſeaſes</hi> vary and are changed; and whenſoever any <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his formerly ſuccesful <hi>Remedies</hi> are unſerviceable, to ſubſtitute others more effe<g ref="char:EOLhyphen"/>ctual in their <hi>Stead,</hi> and this, not by <hi>Hearſay,</hi> or <hi>Reports</hi> of <hi>Others,</hi> but with found <hi>Judgment</hi> and proper <hi>Experience:</hi> But <hi>They,</hi> on the contrary, in all Times and Seaſons have been ſo far from thinking this any Part of their <hi>Concern,</hi> that they have laboured to ſuppreſs thoſe that have endeavoured it, as their <hi>Perſecutions</hi> in all <hi>Times</hi> have teſtify'd.</p>
+            <p>
+               <hi>They</hi> are not ignorant of the <hi>Improvement</hi> that hath been made in <hi>Phyſick</hi> by thoſe that are not of them (although Mr. <hi>G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>odale</hi> ſlanderouſly avers the contrary) in ſomuch that there is no ſingle <hi>Labouring Phyſician,</hi> but hath ſomething he can call his own, as a <hi>Bleſſing</hi> upon his Endeavour, whileſt <hi>They,</hi> with all their Accumu<g ref="char:EOLhyphen"/>lations (if they ſet aſide what is bought, begged, or borrowed) are deſtitute <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>Like,</hi> as they are a <hi>Colledge:</hi> For indeed <hi>Induſtry</hi> is alwayes followed with hopeful <hi>Fruits,</hi> but <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eneſs</hi> reapeth <hi>Nothing;</hi> yet we know they have their pri<g ref="char:EOLhyphen"/>vate <hi>Noſtrums</hi> (as they call their peculiar <hi>Remedies</hi>) but if compared with who <hi>Labouring Phyſicians</hi> profeſs they are but as <hi>Chaſſ</hi> to <hi>Wheat</hi> and more for <hi>State</hi> the <hi>Service,</hi> and each of theirs for the moſt Part is ſuch a <hi>Child</hi> as cannot call them <hi>Fa<g ref="char:EOLhyphen"/>ther:</hi> Now can it be thought <hi>Theſe Men,</hi> if left free to their pretended <hi>Power</hi> ſhould ever advance <hi>Phyſick</hi> to the Benefit of their <hi>Country,</hi> when they ſo apparently hinder <hi>Others:</hi> For although for above an hundred <hi>Years</hi> they have had all the Ad<g ref="char:EOLhyphen"/>vantages any <hi>Sort</hi> of <hi>People</hi> could deſire, yet do they walk, like a <hi>Carrier's Horſe<g ref="char:punc">▪</g>
+               </hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the old <hi>Track</hi> ſtill; and this <hi>C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urſe</hi> they will hold (becauſe ſplendid and profitable though almoſt every One of them, taken apart, will confeſs there is a <hi>Better Way</hi> but becauſe thoſe they have aſſumed for <hi>Patrons</hi> have not preſcribed it. <hi>They</hi> rather chooſe to ſtumble and fall, and make <hi>Others</hi> do ſo too, then to leave the ſame;
+<pb n="5" facs="tcp:36219:4"/>Piece of <hi>Confidence,</hi> which (in any other <hi>Sort</hi> of <hi>Men</hi>) could not but be accounted <hi>Sordid;</hi> yet ſo ſtrangely are theſe <hi>Men</hi> bewitched with the Pretence of <hi>Power,</hi> that <hi>They</hi> think, if they <hi>Kill</hi> by a preſcribed <hi>Rule</hi> (like the <hi>Wild-Iriſh</hi> ploughing by the <hi>Horſe-Tail</hi>) to be more pardonable then <hi>Others</hi> that are none of them, who really <hi>Cure</hi> without that <hi>Rule;</hi> but this is a Part of <hi>Boldneſs,</hi> ſo inconſiſtant with <hi>Inge<g ref="char:EOLhyphen"/>nuity,</hi> that any unbyaſſed <hi>Man</hi> would be apt to judge them clear of the ſame; there<g ref="char:EOLhyphen"/>fore ſince they are notoriouſly guilty thereof, it is a Thing very fit to be conſidered.</p>
+            <p>For if they were by <hi>Act</hi> of <hi>Parliament</hi> made a <hi>Society,</hi> that was for the Advance<g ref="char:EOLhyphen"/>ment (not the Hindrance of <hi>Improvement</hi>) of <hi>Phyſick;</hi> and if they have not advan<g ref="char:EOLhyphen"/>ced, but hindred it, are they not, <hi>ipſo facto,</hi> as other men that never had any ſuch <hi>Authority?</hi> For where the <hi>Reaſon</hi> for which a <hi>Law</hi> was made ceaſeth, the <hi>Law</hi> it ſelf ceaſeth to be: And can any man judge they were eſtabliſhed a <hi>Colledge,</hi> for any other End, then the <hi>Cure</hi> of the <hi>Sick,</hi> after an eaſier and ſafer Manner then <hi>Others</hi> could do? and if they have not done it, ſhall <hi>Thoſe</hi> that have done what <hi>They</hi> have not (or cannot do) be counted <hi>Aggreſſor?</hi> The <hi>Laws</hi> of the <hi>Kingdom,</hi> that admit, every Man's <hi>Houſe</hi> as his <hi>Caſtle,</hi> for a Juſt Defence of his <hi>Propriety;</hi> and judge every Man or <hi>Men</hi> a <hi>Felon</hi> or <hi>Felons</hi> that break it open; yet in the <hi>Caſe</hi> of <hi>Fire</hi> do not in the leaſt accuſe <hi>Thoſe,</hi> that for Preſervation of the ſame <hi>Houſe,</hi> and Defence of others, force open the <hi>Doors</hi> to quench it: Nor is the reſtraining of <hi>Mad</hi> or <hi>Paſſionate Men</hi> from injuring Others or themſelves, either by locking a Door upon them, or holding their Hands, adjudged a Reſtraint of <hi>Perſonal Liberty</hi> (though in other <hi>Caſes</hi> pu<g ref="char:EOLhyphen"/>niſhable by <hi>Law</hi>) becauſe 'tis a <hi>Maxim</hi> in our <hi>Law,</hi> that all <hi>Laws</hi> are made for the <hi>Benefit,</hi> not the <hi>Hurt</hi> of the <hi>People</hi> in general: Therefore it hath been eſtabliſhed by the <hi>Grand Charter,</hi> and ſince confirmed by many <hi>Parliaments,</hi> that if any <hi>Act</hi> be made contrary thereunto, it ſhall be holden for <hi>Null:</hi> Nor want there <hi>Examples</hi> for <hi>Proof</hi> of the ſame, as is well known to <hi>All</hi> that are acquainted with our own <hi>Hiſtories;</hi> for the End of all <hi>Laws</hi> is no other, but the <hi>Preſervation</hi> either of our <hi>Perſons</hi> or our <hi>Eſtates;</hi> and ſo far as this <hi>Law</hi> doth ſo, it is to be acknowledged and adjudged <hi>Good.</hi>
+            </p>
+            <p>But can <hi>Any</hi> be ſo ignorant as to think, that if theſe Men could obtain their de<g ref="char:EOLhyphen"/>ſirable <hi>Power</hi> (which they earneſtly attempted to acquire from the <hi>Parliament</hi> in the Year 1664. and ſeem now again to thirſt after) it ſhould be for the <hi>Preſervation</hi> of <hi>Perſons,</hi> or <hi>Security</hi> of <hi>Eſtates,</hi> when by Suppreſſion of the Laborious and Inge<g ref="char:EOLhyphen"/>nuous <hi>Party,</hi> they ſhould arrogate and aſſume to themſelves the ſole <hi>Power</hi> of <hi>Ad<g ref="char:EOLhyphen"/>miniſtring;</hi> ſhall not the <hi>Remedies</hi> ſo many <hi>Thouſands</hi> have experienced the Uſe of, and the Advantages they have found by them be utterly extinct, and their <hi>Perſons</hi> endangered for Want of them, and their <hi>Purſes</hi> be exposed to the <hi>Pleaſure</hi> of thoſe they muſt be compelled to make Uſe of, who being but a ſmall Number (and in a joynt <hi>Confederacy</hi>) may ſet what <hi>Price</hi> they pleaſe on their <hi>Viſits?</hi> For without Doubt, where there is One <hi>Colledgiate Practitioner,</hi> there are three or four <hi>Others;</hi> and if the Number of <hi>People</hi> be conſidered in <hi>London</hi> and ſeven Miles about, it will be found that they of the <hi>Colledge</hi> are not capable (if the <hi>Non-Colledgiates,</hi> practi<g ref="char:EOLhyphen"/>zing
+<pb n="6" facs="tcp:36219:5"/>
+               <hi>Apothecaries</hi> and <hi>Chyrurgions</hi> were ſuppreſt) to ſupply the Neceſſities of half the <hi>Sick;</hi> ſuppoſe there were five hundred of them, which it is well known they are not, what is that to take <hi>Care</hi> of ten hundred <hi>Thouſand Perſons?</hi> But if it were ſo, that they were numerous enough, and as well furniſed with <hi>Remedies,</hi> we ſee no <hi>Reaſon</hi> why any Man ſhould be debarred of his <hi>Liberty</hi> ſo, as not to chooſe whom he pleaſeth for his <hi>Physician,</hi> ſeeing it is one of the greateſt Helps a <hi>Sick Perſon</hi> hath to be ſatisfied with thoſe about him: And ſhould we well weigh what it is to be debarr'd of uſing what <hi>Phyſitian</hi> we pleaſe in Time of <hi>Sickneſs,</hi> it would amount to no leſs then the <hi>Greateſt</hi> of <hi>Cruelty;</hi> for the <hi>Husband</hi> muſt be forced to abandon the <hi>Relief</hi> of his <hi>Wife,</hi> when <hi>Sick,</hi> if under ſuch a <hi>Diſtemper</hi> as their <hi>Remedies</hi> (which we too <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>en find uncapable) cannot reach, and the <hi>Wife</hi> alſo muſt do the ſame to her <hi>Husband,</hi> the <hi>Father</hi> or <hi>Mother</hi> to their <hi>Children,</hi> and the <hi>Children</hi> to their <hi>Parents</hi> which if ſo, are not the Duties of <hi>Relations</hi> diſſolved, and the <hi>Law</hi> of <hi>GOD</hi> (im<g ref="char:EOLhyphen"/>planted in our Hearts, blotted out? And is not this an Impiety beyond Parallel. For of how great an Advance the Affection of a <hi>Patient</hi> to his <hi>Phyſician</hi> is towards his <hi>Recovery,</hi> none will doubt; but if the <hi>Sick Man</hi> ſhall be compelled to uſe that <hi>Phyſician</hi> he affects not, what great Conſternations, Doubtings and Trouble of Mind (to the u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter undoing of the <hi>Patient</hi>) will unavoidably thence ariſe in him every Man of a mean Capacity may eaſily judge.</p>
+            <p>Beſides, in Times of greateſt Danger, as when the <hi>Plague</hi> raged, <hi>We</hi> have ſeen how inhumanely they fled the <hi>City,</hi> leaving its <hi>Inhabitants</hi> at that Time, when their <hi>Skill</hi> (if they had any) was of moſt Uſe; hence you may clearly ſee whe<g ref="char:EOLhyphen"/>ther it be for the Benefit of the <hi>People</hi> to be compelled to uſe no other <hi>Phyſicians,</hi> then thoſe who in Time of greateſt Danger will be ſure to forſake them: But I ſup<g ref="char:EOLhyphen"/>poſe every Rational Man will judge this enough to prove they have forfeited their <hi>Power,</hi> having broken their <hi>Truſt,</hi> which was for better ſecuring the <hi>People</hi> from the <hi>Hands</hi> of the <hi>Ignorant.</hi>
+            </p>
+            <p>Now to conclude this <hi>Apology</hi> let us conſider the <hi>Preamble</hi> of their <hi>Patent,</hi> the <hi>main Hinge</hi> or <hi>Soul</hi> of their <hi>Conſtitution,</hi> which (if peruſed) you will find clearly to demonſtrate, that to prevent the <hi>Ignorant, Malicious</hi> and <hi>wicked</hi> from hurting the <hi>People,</hi> their <hi>Authority</hi> took Beginning, and was impoſed on them for the ſame End wherefore, if <hi>They</hi> cannot prove <hi>Ignorance, Malice</hi> and <hi>Wickedneſs</hi> in the <hi>Per<g ref="char:EOLhyphen"/>ſons</hi> they trouble, can any Conſcientious <hi>Jury-man</hi> find them guilty of a <hi>Law</hi> (if it be one) that have not deviated from the <hi>Scope</hi> and <hi>End</hi> thereof; let this be laid to <hi>Heart;</hi> alſo let it be well weighed, that <hi>They</hi> uſe not againſt us the <hi>Verity</hi> of their <hi>Arts,</hi> but <hi>Arms,</hi> viz. their <hi>pretended Law,</hi> as if they wanted other <hi>Arguments</hi> to confute <hi>Us;</hi> a ſufficient <hi>Teſtimony They</hi> rather ſeek to ſuppreſs the <hi>Induſtrious</hi> by <hi>Pow<g ref="char:EOLhyphen"/>er,</hi> then <hi>Reaſon;</hi> which if ſo, let all Men conſider how ſafe they are under their Hands, and alſo, that Men of <hi>Innocency</hi> and <hi>Prudence</hi> ſeek not coercive <hi>Power</hi> over <hi>Others,</hi> but leave all Men to be <hi>Judges</hi> of their <hi>Acts,</hi> and are willing to ſtand or fall by the <hi>Common Law</hi> of the <hi>Kingdom,</hi> which never wants <hi>Power</hi> to chaſtize <hi>Thoſe</hi> that by <hi>Male-Practice</hi> injure their <hi>Neighbours.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
